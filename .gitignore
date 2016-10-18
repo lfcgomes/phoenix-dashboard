@@ -60,3 +60,4 @@ jspm_packages
 *.tgz
 
 .DS_Store
+.sublime-project
